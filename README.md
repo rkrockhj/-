@@ -1,7 +1,7 @@
 ## 闽南 中秋博饼游戏  电子版
 
 > 闽南一代，中秋博饼游戏，摇个“插金花”，从概率的角度，只要多来几把，摇到的可能性就变大了。
-<img src="https://github.com/rkrockhj/bobing-Game/blob/main/images/background.png" alt="backgroup" style="zoom:30%;" />
+<img src="https://github.com/rkrockhj/bobing-Game/blob/main/images/com.example.bo_bing.jpg" alt="backgroup" style="zoom:30%;" />
 
 
 
