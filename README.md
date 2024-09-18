@@ -2,7 +2,7 @@
 
 > 闽南一代，中秋博饼游戏，摇个“插金花”，从概率的角度，只要多来几把，摇到的可能性就变大了。
 
-![Screenshot_20240918_075404_com.example.bo_bing](\images\background.png)
+![Screenshot_20240918_075404_com.example.bo_bing]([\images\background.png](https://github.com/rkrockhj/bobing-Game/tree/main/images))
 
 
 
